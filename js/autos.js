@@ -262,11 +262,6 @@ const vehicles = {
             name: "21TRXSUV",
             description: "Ruedas Blindadas + 70 Tn de Peso",
             image: "https://i.postimg.cc/hPqmBwcs/image.png",
-        },
-        {
-            name: "DEFz_TRXEVO ",
-            description: "Full Blindado + Full Peso",
-            image: "https://i.postimg.cc/3JCvJBxZ/image.png",
         }
     ],
 
