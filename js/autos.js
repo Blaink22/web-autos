@@ -169,19 +169,9 @@ const vehicles = {
             image: "https://i.postimg.cc/hGFjgRb0/image.png",
         },
         {
-            name: "titanhawk",
-            description: "Full Blindado + 50 Tn de Peso",
-            image: "https://i.postimg.cc/NjbcChC2/image.png",
-        },
-        {
             name: "trhawk",
             description: "Blindaje de ruedas + 30 Tn de Peso",
             image: "https://i.postimg.cc/JhNM3DVn/image.png",
-        },
-        {
-            name: "x6m47",
-            description: "Blindaje de ruedas + Full Peso",
-            image: "https://i.postimg.cc/hGp3qcVb/image.png",
         },
         {
             name: "bronco2021",
@@ -217,11 +207,6 @@ const vehicles = {
             name: "GODz22LIGHTNINGLFTD",
             description: "Ruedas Blindadas",
             image: "https://i.postimg.cc/DfNfTbhT/image.png",
-        },
-        {
-            name: "21WBTRXv2",
-            description: "Full Blindado + 80 Tn de Peso",
-            image: "https://i.postimg.cc/7PRPkT4y/image.png",
         },
         {
             name: "4x4glc63",
