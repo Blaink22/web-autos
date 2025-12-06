@@ -141,7 +141,7 @@ const vehicles = {
             image: "https://i.postimg.cc/3NNcJRg1/image.png",
         },
         {
-            name: "evo9",
+            name: "992targa4s50",
             description: "Ruedas Blindadas + 80 Tn de Peso",
             image: "https://i.postimg.cc/VvvVL6jR/image.png",
         }
