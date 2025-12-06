@@ -139,11 +139,6 @@ const vehicles = {
 
     camionetas: [
         {
-            name: "x6mhilux6x6",
-            description: "Full Blindado + 50 Tn de Peso",
-            image: "https://i.postimg.cc/TPvjpSJt/image.png",
-        },
-        {
             name: "Fortuner",
             description: "Full Blindado",
             image: "https://i.postimg.cc/QdFsHYdC/image.png",
@@ -217,11 +212,6 @@ const vehicles = {
             name: "sly4x4trackhawk",
             description: "Ruedas Blindadas",
             image: "https://i.postimg.cc/Pf7fj8Hw/image.png",
-        },
-        {
-            name: "21TRXSUV",
-            description: "Ruedas Blindadas + 70 Tn de Peso",
-            image: "https://i.postimg.cc/hPqmBwcs/image.png",
         }
     ],
 
