@@ -101,11 +101,6 @@ const vehicles = {
             image: "https://i.postimg.cc/Vshs8bwf/image.png",
         },
         {
-            name: "shelby6x6cullinan",
-            description: "Full Blindado",
-            image: "https://i.postimg.cc/sD9hDcgc/image.png",
-        },
-        {
             name: "m5e60",
             description: "Addon Normal",
             image: "https://i.postimg.cc/m2NH2wgm/image.png",
