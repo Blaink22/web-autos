@@ -141,11 +141,6 @@ const vehicles = {
             image: "https://i.postimg.cc/2yyK864x/image.png",
         },
         {
-            name: "rs6abtkit",
-            description: "Full Blindado + Full Peso",
-            image: "https://i.postimg.cc/900nFMGY/image.png",
-        },
-        {
             name: "ToraUSkyline ",
             description: "Addon Normal",
             image: "https://i.postimg.cc/3NNcJRg1/image.png",
