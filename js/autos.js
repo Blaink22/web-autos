@@ -11,11 +11,6 @@ const vehicles = {
             image: "https://i.postimg.cc/2jQsyRdn/image.png"
         },
         {
-            name: "fortuner",
-            description: "Full Blindado + 50 Tn de Peso",
-            image: "https://i.postimg.cc/TPvjpSJt/image.png"
-        },
-        {
             name: "surfpepsiv4",
             description: "Blindaje de ruedas + suspension hidraulica manejable y posee texturas bugueadas, que se arreglan en el mecanico",
             image: "https://i.postimg.cc/C1z64X98/image.png",
@@ -177,11 +172,6 @@ const vehicles = {
             name: "overfinchsvr",
             description: "Blindaje de ruedas y posee texturas bugueadas, que se arreglan en el mecanico",
             image: "https://i.postimg.cc/rwxnn5h4/image.png",
-        },
-        {
-            name: "tonkat inferno",
-            description: "Full Blindado + full peso",
-            image: "https://i.postimg.cc/SQGzrR7R/image.png",
         },
         {
             name: "DBmattrackh1",
