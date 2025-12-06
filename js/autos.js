@@ -31,8 +31,8 @@ const vehicles = {
             image: "https://i.postimg.cc/CxWbBtSF/image.png",
         },
         {
-            name: "m8xmoon",
-            description: "Addon Normal",
+            name: "enesperamocho",
+            description: "Full Blindaje +",
             image: "https://i.postimg.cc/1X5F11cq/image.png",
         },
         {
@@ -177,11 +177,6 @@ const vehicles = {
             name: "captiva2010",
             description: "Ruedas Blindadas",
             image: "https://i.postimg.cc/FHL4mPpv/image.png",
-        },
-        {
-            name: "frontierbass",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/RFbsWmCb/image.png",
         },
         {
             name: "addonmanu",
