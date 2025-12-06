@@ -16,11 +16,6 @@ const vehicles = {
             image: "https://i.postimg.cc/TPvjpSJt/image.png"
         },
         {
-            name: "gcars_r32_tuned_kr3sk1",
-            description: "Blindaje de ruedas",
-            image: "https://i.postimg.cc/tTZVkN5f/imagen-2025-12-05-203609447.png",
-        },
-        {
             name: "surfpepsiv4",
             description: "Blindaje de ruedas + suspension hidraulica manejable y posee texturas bugueadas, que se arreglan en el mecanico",
             image: "https://i.postimg.cc/C1z64X98/image.png",
@@ -44,11 +39,6 @@ const vehicles = {
             name: "m8xmoon",
             description: "Addon Normal",
             image: "https://i.postimg.cc/1X5F11cq/image.png",
-        },
-        {
-            name: "infss",
-            description: "Full Blindado",
-            image: "https://i.postimg.cc/76XCVQ8P/image.png",
         },
         {
             name: "supraryf",
@@ -99,11 +89,6 @@ const vehicles = {
             name: "clio2ph25",
             description: "Full Blindado + 40 Tn de Peso",
             image: "https://i.postimg.cc/zGgr5d71/image.png",
-        },
-        {
-            name: "paliop",
-            description: "Blindaje de Ruedas",
-            image: "https://i.postimg.cc/jS7bK8cY/image.png",
         },
         {
             name: "captiva2010",
