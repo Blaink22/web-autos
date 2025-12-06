@@ -52,7 +52,7 @@ const vehicles = {
         },
         {
             name: "supraryf",
-            description: "Addon Normal",
+            description: "FulL Blindaje + 80 Tn de Peso",
             image: "https://i.postimg.cc/y8WwYJ8K/image.png",
         },
         {
