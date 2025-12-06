@@ -96,11 +96,6 @@ const vehicles = {
             image: "https://i.postimg.cc/02vWrVPF/image.png",
         },
         {
-            name: "venatusc",
-            description: "Ruedas Blindadas",
-            image: "https://i.postimg.cc/Vshs8bwf/image.png",
-        },
-        {
             name: "m5e60",
             description: "Addon Normal",
             image: "https://i.postimg.cc/m2NH2wgm/image.png",
