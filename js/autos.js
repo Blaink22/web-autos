@@ -36,11 +36,6 @@ const vehicles = {
             image: "https://i.postimg.cc/1X5F11cq/image.png",
         },
         {
-            name: "supraryf",
-            description: "FulL Blindaje + 80 Tn de Peso",
-            image: "https://i.postimg.cc/y8WwYJ8K/image.png",
-        },
-        {
             name: "nisgtir",
             description: "Full Blindado",
             image: "https://i.postimg.cc/dtVf47dt/image.png",
