@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Vehículos</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/autos.js"></script>
+</head>
+<body>
+
+    <div class="overlay"></div>
+
+    <div class="header">
+        <a href="index.html" class="back">← Volver</a>
+        <h1>Catálogo de Vehículos</h1>
+    </div>
+
+    <div class="categories">
+        <button onclick="showCategory('autos')">Autos</button>
+        <button onclick="showCategory('camionetas')">Camionetas</button>
+        <button onclick="showCategory('motos')">Motos</button>
+        <button onclick="showCategory('aereos')">Aéreos</button>
+        <button onclick="showCategory('otros')">Otros</button>
+    </div>
+
+    <div id="vehicle-container" class="vehicle-container"></div>
+
+</body>
+</html>
