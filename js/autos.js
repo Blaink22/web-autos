@@ -116,11 +116,6 @@ const vehicles = {
             image: "https://i.postimg.cc/qv3T0mwT/image.png",
         },
         {
-            name: "204sR32Golf",
-            description: "Full Blindado",
-            image: "https://i.postimg.cc/tCbS7Bpv/image.png",
-        },
-        {
             name: "evo9",
             description: "Full Blindado",
             image: "https://i.postimg.cc/02vWrVPF/image.png",
