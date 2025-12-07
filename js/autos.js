@@ -184,6 +184,141 @@ const vehicles = {
             name: "hycfocusrs",
             description: "Addon Normal",
             image: "https://i.postimg.cc/sX1SHKvx/screenshot-15.png",
+        },
+        {
+            name: "dicyxxs90gte",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/Y9jNGGyz/screenshot-18.png",
+        },
+        {
+            name: "m5csao22",
+            description: "Addon normal + 10 Toneladas de peso",
+            image: "https://i.postimg.cc/KYpB2cvv/screenshot-19.png",
+        },
+        {
+            name: "addonurue36",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/htp7L4mb/screenshot-20.png",
+        },
+        {
+            name: "GODzTCPMRX7FD",
+            description: "Blindaje a puertas cerradas + Full peso (100 Toneladas)",
+            image: "https://i.postimg.cc/bJWz8WtS/screenshot-21.png",
+        },
+        {
+            name: "ikx3mini21",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/FsfLyXZ6/screenshot-22.png",
+        },
+        {
+            name: "mythicalcoqd1",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/yYSDJX6q/screenshot-23.png",
+        },
+        {
+            name: "datsunny",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/c4YQqNnR/screenshot-24.png",
+        },
+        {
+            name: "celestem5",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/qB6Kndj4/screenshot-25.png",
+        },
+        {
+            name: "Peelp50",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/q7ZthmKf/screenshot-26.png",
+        },
+        {
+            name: "donrrss",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/jdrD7nDH/screenshot-27.png",
+        },
+        {
+            name: "golf4",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/d3cVrgt5/screenshot-28.png",
+        },
+        {
+            name: "glx",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/pLw4Wv01/screenshot-30.png",
+        },
+        {
+            name: "yFeF12T",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/RZ5Lq0Bt/screenshot-31.png",
+        },
+        {
+            name: "m2f22",
+            description: "Addon Normal + 15 Tonelas de peso",
+            image: "https://i.postimg.cc/bvYCNvxW/screenshot-32.png",
+        },
+        {
+            name: "vc_m3g80custom",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/TYrCVbC6/screenshot-33.png",
+        },
+        {
+            name: "MR300SEL",
+            description: "Blindaje a puerta cerrada + Full peso (100 Toneladas)",
+            image: "https://i.postimg.cc/MTSGjhGr/screenshot-35.png",
+        },
+        {
+            name: "elegyr",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/Jn69Wk9V/screenshot-37.png",
+        },
+        {
+            name: "mmc20",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/85xg6vwh/screenshot-38.png",
+        },
+        {
+            name: "priortaycan",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/XJRtJb78/screenshot-39.png",
+        },
+        {
+            name: "agtr35",
+            description: "Addon Normal + 50 Toneladas de Peso",
+            image: "https://i.postimg.cc/dtmgqgMq/screenshot-40.png",
+        },
+        {
+            name: "r36ab",
+            description: "Addon Normal + Full Peso (100 Toneladas)",
+            image: "https://i.postimg.cc/nhSRrJ3t/screenshot-41.png",
+        },
+        {
+            name: "mxpan",
+            description: "Addon Normal + 10 Toneladas de peso",
+            image: "https://i.postimg.cc/zDwxWWdZ/screenshot-42.png",
+        },
+        {
+            name: "r36ab",
+            description: "Addon Normal + Full Peso (100 Toneladas)",
+            image: "https://i.postimg.cc/nhSRrJ3t/screenshot-41.png",
+        },
+        {
+            name: "404fluence",
+            description: "Blindaje a puerta abierta + Full peso (100 Toneladas)",
+            image: "https://i.postimg.cc/gJmZPw3Z/screenshot-44.png",
+        },
+        {
+            name: "fd599",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/63qBRtXn/screenshot-45.png",
+        },
+        {
+            name: "404fluence",
+            description: "Blindaje a puerta abierta + Full peso (100 Toneladas)",
+            image: "https://i.postimg.cc/gJmZPw3Z/screenshot-44.png",
+        },
+        {
+            name: "R81MSS",
+            description: "Addon normal con Luces activables",
+            image: "https://i.postimg.cc/g24J6MhF/screenshot-47.png",
         }
     ],
 
@@ -337,6 +472,41 @@ const vehicles = {
             name: "GODz22LIGHTNINGWB",
             description: "Addon Normal",
             image: "https://i.postimg.cc/44VRHGxV/screenshot-8.png",
+        },
+        {
+            name: "G632019X",
+            description: "Addon normal con sirena de polica.",
+            image: "https://i.postimg.cc/J44WvRgg/screenshot-29.png",
+        },
+        {
+            name: "djKpunk21",
+            description: "Blindaje a puerta abierta + Full peso (100 toneladas) + 750 KM",
+            image: "https://i.postimg.cc/FK1yBkgr/screenshot-34.png",
+        },
+        {
+            name: "mercedesgls",
+            description: "Blindaje a puerta cerrada con picks",
+            image: "https://i.postimg.cc/wMP8DmVm/screenshot-36.png",
+        },
+        {
+            name: "bmwe70",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/5yfqp7sk/screenshot-43.png",
+        },
+        {
+            name: "x6c",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/j5DLTzLP/screenshot-46.png",
+        },
+        {
+            name: "KillerHwak",
+            description: "Addon normal + 10 Toneladas de peso",
+            image: "https://i.postimg.cc/4x3GjXKx/screenshot-48.png",
+        },
+        {
+            name: "Shelby6x6titanh3",
+            description: "Blindaje a puerta cerrada + Full peso (100 toneladas)",
+            image: "https://i.postimg.cc/Vv4TFbWV/screenshot-49.png",
         }
     ],
 
