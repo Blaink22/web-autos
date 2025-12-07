@@ -41,11 +41,6 @@ const vehicles = {
             image: "https://i.postimg.cc/L51Jp4g9/image.png",
         },
         {
-            name: "peugeot3008",
-            description: "Blindaje a puertas cerradas",
-            image: "https://i.postimg.cc/SjbJN0Wp/image.png",
-        },
-        {
             name: "isetta",
             description: "Blindaje a puertas cerradas",
             image: "https://i.postimg.cc/Cx1RNVwc/image.png",
@@ -226,11 +221,6 @@ const vehicles = {
             image: "https://i.postimg.cc/qB6Kndj4/screenshot-25.png",
         },
         {
-            name: "Peelp50",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/q7ZthmKf/screenshot-26.png",
-        },
-        {
             name: "donrrss",
             description: "Addon Normal",
             image: "https://i.postimg.cc/jdrD7nDH/screenshot-27.png",
@@ -259,11 +249,6 @@ const vehicles = {
             name: "vc_m3g80custom",
             description: "Addon Normal",
             image: "https://i.postimg.cc/TYrCVbC6/screenshot-33.png",
-        },
-        {
-            name: "MR300SEL",
-            description: "Blindaje a puerta cerrada + Full peso (100 Toneladas)",
-            image: "https://i.postimg.cc/MTSGjhGr/screenshot-35.png",
         },
         {
             name: "elegyr",
