@@ -161,11 +161,6 @@ const vehicles = {
             image: "https://i.postimg.cc/4dFvXqr9/screenshot-14.png",
         },
         {
-            name: "hycfocusrs",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/sX1SHKvx/screenshot-15.png",
-        },
-        {
             name: "dicyxxs90gte",
             description: "Addon Normal",
             image: "https://i.postimg.cc/Y9jNGGyz/screenshot-18.png",
@@ -204,11 +199,6 @@ const vehicles = {
             name: "donrrss",
             description: "Addon Normal",
             image: "https://i.postimg.cc/jdrD7nDH/screenshot-27.png",
-        },
-        {
-            name: "golf4",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/d3cVrgt5/screenshot-28.png",
         },
         {
             name: "glx",
@@ -251,29 +241,14 @@ const vehicles = {
             image: "https://i.postimg.cc/dtmgqgMq/screenshot-40.png",
         },
         {
-            name: "r36ab",
-            description: "Addon Normal + Full Peso (100 Toneladas)",
-            image: "https://i.postimg.cc/nhSRrJ3t/screenshot-41.png",
-        },
-        {
             name: "mxpan",
             description: "Addon Normal + 10 Toneladas de peso",
             image: "https://i.postimg.cc/zDwxWWdZ/screenshot-42.png",
         },
         {
-            name: "404fluence",
-            description: "Blindaje a puerta abierta + Full peso (100 Toneladas)",
-            image: "https://i.postimg.cc/gJmZPw3Z/screenshot-44.png",
-        },
-        {
             name: "fd599",
             description: "Addon Normal",
             image: "https://i.postimg.cc/63qBRtXn/screenshot-45.png",
-        },
-        {
-            name: "R81MSS",
-            description: "Addon normal con Luces activables",
-            image: "https://i.postimg.cc/g24J6MhF/screenshot-47.png",
         }
     ],
 
