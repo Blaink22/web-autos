@@ -124,6 +124,66 @@ const vehicles = {
             name: "992targa4s50",
             description: "Addon Normal + 80 Tn de Peso",
             image: "https://i.postimg.cc/VvvVL6jR/image.png",
+        },
+        {
+            name: "PlacoRRculillan",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/J0K4ZC5d/image.png",
+        },
+        {
+            name: "fbatourc",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/4dN0nCns/image.png",
+        },
+        {
+            name: "toyotaGR2025",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/VvvVL6jR/image.png",
+        },
+        {
+            name: "204sculli",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/pX656KK1/image.png",
+        },
+        {
+            name: "bmwx7khann",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/XJBnXyrY/image.png",
+        },
+        {
+            name: "ToraCullinanWB",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/NF4N8pnW/screenshot-9.png",
+        },
+        {
+            name: "fdjas",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/B6NDMkqk/screenshot-10.png",
+        },
+        {
+            name: "530d",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/L8npX1YD/screenshot-11.png",
+        },
+        {
+            name: "rrsupramk3",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/HsvqfkZJ/screenshot-12.png",
+        },
+        {
+            name: "AlfaGiuliaGTAM23",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/rsmhJSLm/screenshot-13.png",
+        },
+        {
+            name: "nissanr33tbk",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/4dFvXqr9/screenshot-14.png",
+        },
+        {
+            name: "hycfocusrs",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/sX1SHKvx/screenshot-15.png",
         }
     ],
 
@@ -202,6 +262,86 @@ const vehicles = {
             name: "sly4x4trackhawk",
             description: "Addon Normal",
             image: "https://i.postimg.cc/Pf7fj8Hw/image.png",
+        },
+        {
+            name: "Domyah_TiffanyRange",
+            description: "Blindaje a puerta cerrada",
+            image: "https://i.postimg.cc/ncv18Rhf/image.png",
+        },
+        {
+            name: "1320rubi",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/mZKdW13g/image.png",
+        },
+        {
+            name: "G5502019",
+            description: "Blindaje a puertas cerrada con picks traseros",
+            image: "https://i.postimg.cc/FFYP6VSm/image.png",
+        },
+        {
+            name: "rrf150w",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/MH11SHxQ/image.png",
+        },
+        {
+            name: "GC_WBSUBN",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/2yg9HVGr/image.png",
+        },
+        {
+            name: "GODzJW",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/s228gdMS/image.png",
+        },
+        {
+            name: "trx",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/MH11SHxQ/image.png",
+        },
+        {
+            name: "gronos",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/RFdNQtM8/image.png",
+        },
+        {
+            name: "19gv80",
+            description: "Blindaje a puertas cerradas con picks",
+            image: "https://i.postimg.cc/Hxrk5hhc/image.png",
+        },
+        {
+            name: "rubcamper",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/cHR5DsjP/image.png",
+        },
+        {
+            name: "BCS_Silverado",
+            description: "Blindaje a puertas cerradas con picks",
+            image: "https://i.postimg.cc/CKHjXzhH/image.png",
+        },
+        {
+            name: "al18",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/DzJz4NDh/screenshot-3.png",
+        },
+        {
+            name: "ikx3rezvani",
+            description: "Full blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/zDjqv5BC/screenshot-4.png",
+        },
+        {
+            name: "fordrangerpayaso",
+            description: "Blindaje a puerta abierta",
+            image: "https://i.postimg.cc/FskmZSpg/screenshot-5.png",
+        },
+        {
+            name: "GODzDRIFTHAWKWB",
+            description: "Ruedas Blindadas",
+            image: "https://i.postimg.cc/5NW1s0RT/screenshot-7.png",
+        },
+        {
+            name: "GODz22LIGHTNINGWB",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/44VRHGxV/screenshot-8.png",
         }
     ],
 
