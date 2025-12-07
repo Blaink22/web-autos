@@ -61,11 +61,6 @@ const vehicles = {
             image: "https://i.postimg.cc/L8bnQ0s3/image.png",
         },
         {
-            name: "crossfoxjuani",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/nhDJZdk5/image.webp",
-        },
-        {
             name: "captiva2010",
             description: "Addon Normal",
             image: "https://i.postimg.cc/FHL4mPpv/image.png",
@@ -296,11 +291,6 @@ const vehicles = {
             image: "https://i.postimg.cc/63qBRtXn/screenshot-45.png",
         },
         {
-            name: "404fluence",
-            description: "Blindaje a puerta abierta + Full peso (100 Toneladas)",
-            image: "https://i.postimg.cc/gJmZPw3Z/screenshot-44.png",
-        },
-        {
             name: "R81MSS",
             description: "Addon normal con Luces activables",
             image: "https://i.postimg.cc/g24J6MhF/screenshot-47.png",
@@ -462,11 +452,6 @@ const vehicles = {
             name: "G632019X",
             description: "Addon normal con sirena de polica.",
             image: "https://i.postimg.cc/J44WvRgg/screenshot-29.png",
-        },
-        {
-            name: "djKpunk21",
-            description: "Blindaje a puerta abierta + Full peso (100 toneladas) + 750 KM",
-            image: "https://i.postimg.cc/FK1yBkgr/screenshot-34.png",
         },
         {
             name: "mercedesgls",
