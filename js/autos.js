@@ -444,11 +444,6 @@ const vehicles = {
             image: "https://i.postimg.cc/44VRHGxV/screenshot-8.png",
         },
         {
-            name: "G632019X",
-            description: "Addon normal con sirena de polica.",
-            image: "https://i.postimg.cc/J44WvRgg/screenshot-29.png",
-        },
-        {
             name: "mercedesgls",
             description: "Blindaje a puerta cerrada con picks",
             image: "https://i.postimg.cc/wMP8DmVm/screenshot-36.png",
