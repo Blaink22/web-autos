@@ -46,11 +46,6 @@ const vehicles = {
             image: "https://i.postimg.cc/Cx1RNVwc/image.png",
         },
         {
-            name: "yRenault5TB",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/g2TntB0K/image.png",
-        },
-        {
             name: "tbird",
             description: "Addon Normal",
             image: "https://i.postimg.cc/P5RPVFq4/image.png",
@@ -204,11 +199,6 @@ const vehicles = {
             name: "datsunny",
             description: "Addon Normal",
             image: "https://i.postimg.cc/c4YQqNnR/screenshot-24.png",
-        },
-        {
-            name: "celestem5",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/qB6Kndj4/screenshot-25.png",
         },
         {
             name: "donrrss",
