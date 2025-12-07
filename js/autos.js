@@ -359,11 +359,6 @@ const vehicles = {
             image: "https://i.postimg.cc/9XkXhq24/image.png",
         },
         {
-            name: "ikx3urus23",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/CM2Mgf05/image.png",
-        },
-        {
             name: "sly4x4trackhawk",
             description: "Addon Normal",
             image: "https://i.postimg.cc/Pf7fj8Hw/image.png",
