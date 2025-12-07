@@ -123,7 +123,7 @@ const vehicles = {
         {
             name: "toyotaGR2025",
             description: "Addon Normal",
-            image: "https://i.postimg.cc/VvvVL6jR/image.png",
+            image: "https://i.postimg.cc/cJYns3xP/screenshot-60.png",
         },
         {
             name: "204sculli",
@@ -259,11 +259,6 @@ const vehicles = {
             name: "mxpan",
             description: "Addon Normal + 10 Toneladas de peso",
             image: "https://i.postimg.cc/zDwxWWdZ/screenshot-42.png",
-        },
-        {
-            name: "r36ab",
-            description: "Addon Normal + Full Peso (100 Toneladas)",
-            image: "https://i.postimg.cc/nhSRrJ3t/screenshot-41.png",
         },
         {
             name: "404fluence",
