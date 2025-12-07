@@ -487,11 +487,6 @@ const vehicles = {
             name: "KillerHwak",
             description: "Addon normal + 10 Toneladas de peso",
             image: "https://i.postimg.cc/4x3GjXKx/screenshot-48.png",
-        },
-        {
-            name: "Shelby6x6titanh3",
-            description: "Blindaje a puerta cerrada + Full peso (100 toneladas)",
-            image: "https://i.postimg.cc/Vv4TFbWV/screenshot-49.png",
         }
     ],
 
