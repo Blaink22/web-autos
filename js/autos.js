@@ -22,22 +22,22 @@ const vehicles = {
         },
         {
             name: "23x5",
-            description: "Blindaje a puertas cerradas + 50 Tn de Peso",
+            description: "Blindaje a puertas cerradas + 30 TN de Peso",
             image: "https://i.postimg.cc/J4YNm0Fw/image.png",
         },
         {
             name: "rmodx6",
-            description: "Blindaje de ruedas",
+            description: "Blindaje de ruedas + 10 TN de Peso",
             image: "https://i.postimg.cc/CxWbBtSF/image.png",
         },
         {
             name: "nisgtir",
-            description: "Blindaje a puertas cerradas",
+            description: "Blindaje a puertas cerradas + 20 TN de peso",
             image: "https://i.postimg.cc/dtVf47dt/image.png",
         },
         {
             name: "ER34N",
-            description: "Addon Normal + full detalle con infinidad de calcomanias",
+            description: "Addon Normal + full detalle con infinidad de calcomanias + 10 TN ",
             image: "https://i.postimg.cc/L51Jp4g9/image.png",
         },
         {
@@ -77,7 +77,7 @@ const vehicles = {
         },
         {
             name: "audia4vw",
-            description: "Blindaje a puertas cerradas",
+            description: "Blindaje a puertas cerradas + 10 TN de peso",
             image: "https://i.postimg.cc/qv3T0mwT/image.png",
         },
         {
@@ -97,7 +97,7 @@ const vehicles = {
         },
         {
             name: "gtrpit",
-            description: "Addon Normal",
+            description: "Addon Normal + Full peso (100 Toneladas)",
             image: "https://i.postimg.cc/ncYDckh6/image.png",
         },
         {
@@ -122,7 +122,7 @@ const vehicles = {
         },
         {
             name: "992targa4s50",
-            description: "Addon Normal + 80 Tn de Peso",
+            description: "Addon Normal + 10 Tn de Peso",
             image: "https://i.postimg.cc/VvvVL6jR/image.png",
         },
         {
@@ -147,7 +147,7 @@ const vehicles = {
         },
         {
             name: "bmwx7khann",
-            description: "Addon Normal",
+            description: "Addon Normal + 30 Tn de peso",
             image: "https://i.postimg.cc/XJBnXyrY/image.png",
         },
         {
@@ -162,7 +162,7 @@ const vehicles = {
         },
         {
             name: "530d",
-            description: "Blindaje a puertas cerradas",
+            description: "Blindaje a puertas cerradas + 100 Tn de peso",
             image: "https://i.postimg.cc/L8npX1YD/screenshot-11.png",
         },
         {
@@ -172,7 +172,7 @@ const vehicles = {
         },
         {
             name: "AlfaGiuliaGTAM23",
-            description: "Addon Normal",
+            description: "Addon Normal + Full peso (100 toneladas)",
             image: "https://i.postimg.cc/rsmhJSLm/screenshot-13.png",
         },
         {
@@ -195,22 +195,22 @@ const vehicles = {
         },
         {
             name: "overfinchsvr",
-            description: "Addon Normal que posee texturas bugueadas, que se arreglan en el mecanico",
+            description: "Addon Normal que posee texturas bugueadas, que se arreglan en el mecanico + Full peso (100 toneladas)",
             image: "https://i.postimg.cc/rwxnn5h4/image.png",
         },
         {
             name: "DBmattrackh1",
-            description: "Addon Normal + 60 Tn de Peso",
+            description: "Addon Normal",
             image: "https://i.postimg.cc/hGFjgRb0/image.png",
         },
         {
             name: "trhawk",
-            description: "Addon Normal + 30 Tn de Peso",
+            description: "Addon Normal",
             image: "https://i.postimg.cc/JhNM3DVn/image.png",
         },
         {
             name: "bronco2021",
-            description: "Addon Normal + 80 Tn de Peso",
+            description: "Addon Normal",
             image: "https://i.postimg.cc/W1t7JgZ1/image.png",
         },
         {
@@ -245,7 +245,7 @@ const vehicles = {
         },
         {
             name: "gcmf150svt2002",
-            description: "Addon Normal + 50 Tn de Peso",
+            description: "Addon Normal + 60 Tn de Peso",
             image: "https://i.postimg.cc/WpypvJVd/image.png",
         },
         {
@@ -275,7 +275,7 @@ const vehicles = {
         },
         {
             name: "G5502019",
-            description: "Blindaje a puertas cerrada con picks traseros",
+            description: "Blindaje a puertas cerrada con picks traseros + 60 TN de peso",
             image: "https://i.postimg.cc/FFYP6VSm/image.png",
         },
         {
@@ -295,18 +295,13 @@ const vehicles = {
         },
         {
             name: "trx",
-            description: "Blindaje a puertas cerradas",
+            description: "Blindaje a puertas cerradas + Full peso (100 Toneladas)",
             image: "https://i.postimg.cc/MH11SHxQ/image.png",
         },
         {
             name: "gronos",
             description: "Addon Normal",
             image: "https://i.postimg.cc/RFdNQtM8/image.png",
-        },
-        {
-            name: "19gv80",
-            description: "Blindaje a puertas cerradas con picks",
-            image: "https://i.postimg.cc/Hxrk5hhc/image.png",
         },
         {
             name: "rubcamper",
@@ -335,7 +330,7 @@ const vehicles = {
         },
         {
             name: "GODzDRIFTHAWKWB",
-            description: "Ruedas Blindadas",
+            description: "Ruedas Blindadas + 50 Toneladas de peso",
             image: "https://i.postimg.cc/5NW1s0RT/screenshot-7.png",
         },
         {
