@@ -146,11 +146,6 @@ const vehicles = {
             image: "https://i.postimg.cc/NF4N8pnW/screenshot-9.png",
         },
         {
-            name: "fdjas",
-            description: "Addon Normal +800 km",
-            image: "https://i.postimg.cc/B6NDMkqk/screenshot-10.png",
-        },
-        {
             name: "530d",
             description: "Blindaje a puertas cerradas + 100 Tn de peso",
             image: "https://i.postimg.cc/L8npX1YD/screenshot-11.png",
