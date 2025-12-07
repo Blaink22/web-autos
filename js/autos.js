@@ -147,7 +147,7 @@ const vehicles = {
         },
         {
             name: "fdjas",
-            description: "Addon Normal",
+            description: "Addon Normal +800 km",
             image: "https://i.postimg.cc/B6NDMkqk/screenshot-10.png",
         },
         {
