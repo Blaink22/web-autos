@@ -66,11 +66,6 @@ const vehicles = {
             image: "https://i.postimg.cc/qv3T0mwT/image.png",
         },
         {
-            name: "evo9",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/02vWrVPF/image.png",
-        },
-        {
             name: "m5e60",
             description: "Addon Normal",
             image: "https://i.postimg.cc/m2NH2wgm/image.png",
@@ -99,11 +94,6 @@ const vehicles = {
             name: "mansgtr50",
             description: "Addon Normal",
             image: "https://i.postimg.cc/2yyK864x/image.png",
-        },
-        {
-            name: "ToraUSkyline",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/DzYkKyyb/image.png",
         },
         {
             name: "992targa4s50",
