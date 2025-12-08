@@ -251,11 +251,6 @@ const vehicles = {
             image: "https://i.postimg.cc/GtLTGpRP/screenshot-60.png",
         },
         {
-            name: "passat",
-            description: "Blindaje a puerta abierta + Full peso (100 toneladas)",
-            image: "https://i.postimg.cc/k5P4W5FK/screenshot-60.png",
-        },
-        {
             name: "rrcgt",
             description: "Addon Normal",
             image: "https://i.postimg.cc/KjWcjcvs/screenshot-60.png",
