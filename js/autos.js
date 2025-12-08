@@ -555,11 +555,6 @@ const vehicles = {
             image: "https://i.postimg.cc/T13BKBkF/screenshot-60.png",
         },
         {
-            name: "yAudiTTmk1",
-            description: "Addon Normal +700 Km",
-            image: "https://i.postimg.cc/SsyvPwbZ/screenshot-60.png",
-        },
-        {
             name: "eclass24",
             description: "Addon Normal",
             image: "https://i.postimg.cc/G36ZLgFP/screenshot-60.png",
@@ -643,11 +638,6 @@ const vehicles = {
             image: "https://i.postimg.cc/fy1Mj1CH/image.png",
         },
         {
-            name: "GODz22LIGHTNINGLFTD",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/DfNfTbhT/image.png",
-        },
-        {
             name: "4x4glc63",
             description: "Blindaje a puertas cerradas + Infinidad de calcomanias",
             image: "https://i.postimg.cc/gj1Gq1s7/image.png",
@@ -681,11 +671,6 @@ const vehicles = {
             name: "G5502019",
             description: "Blindaje a puertas cerrada con picks traseros + 60 TN de peso",
             image: "https://i.postimg.cc/FFYP6VSm/image.png",
-        },
-        {
-            name: "rrf150w",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/MH11SHxQ/image.png",
         },
         {
             name: "GC_WBSUBN",
@@ -733,11 +718,6 @@ const vehicles = {
             image: "https://i.postimg.cc/5NW1s0RT/screenshot-7.png",
         },
         {
-            name: "GODz22LIGHTNINGWB",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/44VRHGxV/screenshot-8.png",
-        },
-        {
             name: "mercedesgls",
             description: "Blindaje a puerta cerrada con picks",
             image: "https://i.postimg.cc/wMP8DmVm/screenshot-36.png",
@@ -751,11 +731,6 @@ const vehicles = {
             name: "x6c",
             description: "Addon Normal",
             image: "https://i.postimg.cc/j5DLTzLP/screenshot-46.png",
-        },
-        {
-            name: "hymnspr",
-            description: "Addon Normal + Full Peso (100 Toneladas)",
-            image: "https://i.postimg.cc/xCtMsmtM/screenshot-60.png",
         },
         {
             name: "cupra22f",
