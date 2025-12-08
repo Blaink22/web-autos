@@ -101,11 +101,6 @@ const vehicles = {
             image: "https://i.postimg.cc/VvvVL6jR/image.png",
         },
         {
-            name: "PlacoRRculillan",
-            description: "Blindaje a puertas cerradas",
-            image: "https://i.postimg.cc/J0K4ZC5d/image.png",
-        },
-        {
             name: "fbatourc",
             description: "Blindaje a puertas cerradas",
             image: "https://i.postimg.cc/4dN0nCns/image.png",
@@ -129,11 +124,6 @@ const vehicles = {
             name: "ToraCullinanWB",
             description: "Addon Normal",
             image: "https://i.postimg.cc/NF4N8pnW/screenshot-9.png",
-        },
-        {
-            name: "530d",
-            description: "Blindaje a puertas cerradas + 100 Tn de peso",
-            image: "https://i.postimg.cc/L8npX1YD/screenshot-11.png",
         },
         {
             name: "rrsupramk3",
@@ -239,11 +229,6 @@ const vehicles = {
             name: "mst",
             description: "Addon Normal",
             image: "https://i.postimg.cc/KvbJp7Gk/screenshot-60.png",
-        },
-        {
-            name: "DEFz_Pinky",
-            description: "Blindaje a puerta abierta",
-            image: "https://i.postimg.cc/GtLTGpRP/screenshot-60.png",
         },
         {
             name: "rrcgt",
@@ -491,11 +476,6 @@ const vehicles = {
             image: "https://i.postimg.cc/tgJWJky4/screenshot-60.png",
         },
         {
-            name: "Amgolfr",
-            description: "Addon Normal + 10 Toneladas de peso",
-            image: "https://i.postimg.cc/CKbYGTwQ/screenshot-60.png",
-        },
-        {
             name: "M2g87",
             description: "",
             image: "https://i.postimg.cc/gk5P1kJ6/screenshot-60.png",
@@ -524,16 +504,6 @@ const vehicles = {
             name: "Polo19",
             description: "Addon Normal",
             image: "https://i.postimg.cc/FHRVkNgp/screenshot-60.png",
-        },
-        {
-            name: "Mk4",
-            description: "Addon Normal + 20 Toneladas de peso",
-            image: "https://i.postimg.cc/Zn4rbS5x/screenshot-60.png",
-        },
-        {
-            name: "M3bxane",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/L5G2kHgj/screenshot-60.png",
         },
         {
             name: "Godztrackcat",
@@ -653,11 +623,6 @@ const vehicles = {
             image: "https://i.postimg.cc/JhNM3DVn/image.png",
         },
         {
-            name: "bronco2021",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/W1t7JgZ1/image.png",
-        },
-        {
             name: "dbRedeyeTracky",
             description: "Blindaje a puertas cerradas + 60 Tn de Peso",
             image: "https://i.postimg.cc/KYMr0bJ1/image.png",
@@ -746,11 +711,6 @@ const vehicles = {
             name: "rubcamper",
             description: "Addon Normal",
             image: "https://i.postimg.cc/cHR5DsjP/image.png",
-        },
-        {
-            name: "BCS_Silverado",
-            description: "Blindaje a puertas cerradas con picks",
-            image: "https://i.postimg.cc/CKHjXzhH/image.png",
         },
         {
             name: "al18",
