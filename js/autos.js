@@ -12,7 +12,7 @@ const vehicles = {
         },
         {
             name: "surfpepsiv4",
-            description: "Addon Normal + suspension hidraulica manejable y posee texturas bugueadas, que se arreglan en el mecanico",
+            description: "Addon Normal + suspension hidraulica manejable y posee texturas bugueadas",
             image: "https://i.postimg.cc/C1z64X98/image.png",
         },
         {
