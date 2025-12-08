@@ -276,11 +276,6 @@ const vehicles = {
             image: "https://i.postimg.cc/WpyJhTKL/screenshot-60.png",
         },
         {
-            name: "mk3golf",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/NfT7tKMf/screenshot-60.png",
-        },
-        {
             name: "a90pit",
             description: "Blindaje a puerta abierta + 50 Toneladas de peso",
             image: "https://i.postimg.cc/cJJnvCs1/screenshot-60.png",
