@@ -321,11 +321,6 @@ const vehicles = {
             image: "https://i.postimg.cc/KjhjD8yN/screenshot-60.png",
         },
         {
-            name: "488sp2",
-            description: "Blindaje a puerta abierta",
-            image: "https://i.postimg.cc/rwZpYJkq/screenshot-60.png",
-        },
-        {
             name: "ccm3",
             description: "Addon Normal",
             image: "https://i.postimg.cc/NFxs884W/screenshot-60.png",
