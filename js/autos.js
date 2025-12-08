@@ -431,11 +431,6 @@ const vehicles = {
             image: "https://i.postimg.cc/bvTd9hwW/screenshot-60.png",
         },
         {
-            name: "rmodm3e36",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/3xjw3Tmr/screenshot-60.png",
-        },
-        {
             name: "PoetaMod",
             description: "Addon Normal",
             image: "https://i.postimg.cc/y6JcsDdJ/screenshot-60.png",
@@ -803,11 +798,6 @@ const vehicles = {
             image: "https://i.postimg.cc/j5DLTzLP/screenshot-46.png",
         },
         {
-            name: "KillerHwak",
-            description: "Addon normal + 10 Toneladas de peso",
-            image: "https://i.postimg.cc/4x3GjXKx/screenshot-48.png",
-        },
-        {
             name: "hymnspr",
             description: "Addon Normal + Full Peso (100 Toneladas)",
             image: "https://i.postimg.cc/xCtMsmtM/screenshot-60.png",
@@ -821,11 +811,6 @@ const vehicles = {
             name: "23odysport",
             description: "Addon Normal",
             image: "https://i.postimg.cc/L8hMbFDb/screenshot-60.png",
-        },
-        {
-            name: "gsttac1",
-            description: "Blindaje a Puerta cerrada",
-            image: "https://i.postimg.cc/c4LqvGpL/screenshot-60.png",
         },
         {
             name: "21f150",
