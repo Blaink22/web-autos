@@ -396,11 +396,6 @@ const vehicles = {
             image: "https://i.postimg.cc/ZRtvVc8Y/screenshot-60.png",
         },
         {
-            name: "f248",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/K8C18Ns6/screenshot-60.png",
-        },
-        {
             name: "gbigair",
             description: "Addon Normal",
             image: "https://i.postimg.cc/fRP8WGNG/screenshot-60.png",
