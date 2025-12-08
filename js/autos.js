@@ -166,11 +166,6 @@ const vehicles = {
             image: "https://i.postimg.cc/htp7L4mb/screenshot-20.png",
         },
         {
-            name: "GODzTCPMRX7FD",
-            description: "Blindaje a puertas cerradas + Full peso (100 Toneladas)",
-            image: "https://i.postimg.cc/bJWz8WtS/screenshot-21.png",
-        },
-        {
             name: "ikx3mini21",
             description: "Addon Normal",
             image: "https://i.postimg.cc/FsfLyXZ6/screenshot-22.png",
