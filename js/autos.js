@@ -818,11 +818,6 @@ const vehicles = {
             image: "https://i.postimg.cc/7YfsvPvB/screenshot-60.png",
         },
         {
-            name: "RAPTOR150",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/nVsRgcfN/screenshot-60.png",
-        },
-        {
             name: "VOGUE14d",
             description: "Addon Normal",
             image: "https://i.postimg.cc/ZqKjcJL8/screenshot-60.png",
@@ -846,11 +841,6 @@ const vehicles = {
             name: "baggedram",
             description: "Blindaje a puerta abierta con picks",
             image: "https://i.postimg.cc/X77n5zZg/screenshot-60.png",
-        },
-        {
-            name: "gxstinger",
-            description: "Blindaje a puerta abierta + Full PESO (100 Toneladas)",
-            image: "https://i.postimg.cc/nhSKxg7Z/screenshot-60.png",
         }
     ],
 
