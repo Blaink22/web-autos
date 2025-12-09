@@ -758,11 +758,6 @@ const vehicles = {
             image: "https://i.postimg.cc/x8KKQZR1/screenshot-60.png",
         },
         {
-            name: "rebelc3",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/v84zmQh5/screenshot-60.png",
-        },
-        {
             name: "baggedram",
             description: "Blindaje a puerta abierta con picks",
             image: "https://i.postimg.cc/X77n5zZg/screenshot-60.png",
