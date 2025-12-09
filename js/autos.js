@@ -91,11 +91,6 @@ const vehicles = {
             image: "https://i.postimg.cc/KjjHvzn3/image.png",
         },
         {
-            name: "mansgtr50",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/2yyK864x/image.png",
-        },
-        {
             name: "992targa4s50",
             description: "Addon Normal + 10 Tn de Peso",
             image: "https://i.postimg.cc/VvvVL6jR/image.png",
@@ -306,11 +301,6 @@ const vehicles = {
             image: "https://i.postimg.cc/442FyHsH/screenshot-60.png",
         },
         {
-            name: "vwpasatb",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/MHgDDRpd/screenshot-60.png",
-        },
-        {
             name: "epic_kc",
             description: "Addon Normal",
             image: "https://i.postimg.cc/8s8RWSy1/screenshot-60.png",
@@ -476,11 +466,6 @@ const vehicles = {
             image: "https://i.postimg.cc/NjYZ39tD/screenshot-60.png",
         },
         {
-            name: "Pe408",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/ZKLwyfkW/screenshot-60.png",
-        },
-        {
             name: "Polo19",
             description: "Addon Normal",
             image: "https://i.postimg.cc/FHRVkNgp/screenshot-60.png",
@@ -613,11 +598,6 @@ const vehicles = {
             image: "https://i.postimg.cc/fy1Mj1CH/image.png",
         },
         {
-            name: "4x4glc63",
-            description: "Blindaje a puertas cerradas + Infinidad de calcomanias",
-            image: "https://i.postimg.cc/gj1Gq1s7/image.png",
-        },
-        {
             name: "gcmf150svt2002",
             description: "Addon Normal + 60 Tn de Peso",
             image: "https://i.postimg.cc/WpypvJVd/image.png",
@@ -641,11 +621,6 @@ const vehicles = {
             name: "1320rubi",
             description: "Addon Normal",
             image: "https://i.postimg.cc/mZKdW13g/image.png",
-        },
-        {
-            name: "G5502019",
-            description: "Blindaje a puertas cerrada con picks traseros + 60 TN de peso",
-            image: "https://i.postimg.cc/FFYP6VSm/image.png",
         },
         {
             name: "GC_WBSUBN",
