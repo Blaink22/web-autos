@@ -501,11 +501,6 @@ const vehicles = {
             image: "https://i.postimg.cc/FHRVkNgp/screenshot-60.png",
         },
         {
-            name: "Godztrackcat",
-            description: "Blindaje a puerta cerradas + 40 Toneladas",
-            image: "https://i.postimg.cc/jCVYwZBQ/screenshot-60.png",
-        },
-        {
             name: "Mibebitofiufiu",
             description: "Addon Normal",
             image: "https://i.postimg.cc/Gh0psQP0/screenshot-60.png",
