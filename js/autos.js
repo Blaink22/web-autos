@@ -136,11 +136,6 @@ const vehicles = {
             image: "https://i.postimg.cc/rsmhJSLm/screenshot-13.png",
         },
         {
-            name: "nissanr33tbk",
-            description: "Blindaje a puertas cerradas",
-            image: "https://i.postimg.cc/4dFvXqr9/screenshot-14.png",
-        },
-        {
             name: "dicyxxs90gte",
             description: "Addon Normal",
             image: "https://i.postimg.cc/Y9jNGGyz/screenshot-18.png",
@@ -274,11 +269,6 @@ const vehicles = {
             name: "ssc_tuatara",
             description: "Addon Normal",
             image: "https://i.postimg.cc/WpyJhTKL/screenshot-60.png",
-        },
-        {
-            name: "a90pit",
-            description: "Blindaje a puerta abierta + 50 Toneladas de peso",
-            image: "https://i.postimg.cc/cJJnvCs1/screenshot-60.png",
         },
         {
             name: "rmod240sx",
@@ -464,11 +454,6 @@ const vehicles = {
             name: "W222s500",
             description: "Addon Normal",
             image: "https://i.postimg.cc/nhY0B06D/screenshot-60.png",
-        },
-        {
-            name: "Rrss ",
-            description: "Blindaje a puerta cerrada con picks + luces rgb",
-            image: "https://i.postimg.cc/tgJWJky4/screenshot-60.png",
         },
         {
             name: "M2g87",
