@@ -206,11 +206,6 @@ const vehicles = {
             image: "https://i.postimg.cc/dtmgqgMq/screenshot-40.png",
         },
         {
-            name: "mxpan",
-            description: "Addon Normal + 10 Toneladas de peso",
-            image: "https://i.postimg.cc/zDwxWWdZ/screenshot-42.png",
-        },
-        {
             name: "fd599",
             description: "Addon Normal",
             image: "https://i.postimg.cc/63qBRtXn/screenshot-45.png",
