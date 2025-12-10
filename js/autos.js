@@ -553,6 +553,11 @@ const vehicles = {
             name: "evcm5a",
             description: "Blindaje a puerta cerrada con picks traseros",
             image: "https://i.postimg.cc/25TsCzG8/screenshot-60.png",
+        },
+        {
+            name: "m8keyvany",
+            description: "Full Blindaje a puerta abierta + Full Peso (100 Toneladas) +500km",
+            image: "https://i.postimg.cc/0QsTC3Xm/image.webp",
         }
     ],
 
