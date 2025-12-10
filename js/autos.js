@@ -658,11 +658,6 @@ const vehicles = {
             image: "https://i.postimg.cc/FskmZSpg/screenshot-5.png",
         },
         {
-            name: "GODzDRIFTHAWKWB",
-            description: "Ruedas Blindadas + 50 Toneladas de peso",
-            image: "https://i.postimg.cc/5NW1s0RT/screenshot-7.png",
-        },
-        {
             name: "mercedesgls",
             description: "Blindaje a puerta cerrada con picks",
             image: "https://i.postimg.cc/wMP8DmVm/screenshot-36.png",
