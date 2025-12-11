@@ -261,11 +261,6 @@ const vehicles = {
             image: "https://i.postimg.cc/WpyJhTKL/screenshot-60.png",
         },
         {
-            name: "rmod240sx",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/ZYNyB1hf/screenshot-60.png",
-        },
-        {
             name: "f8t",
             description: "Addon Normal",
             image: "https://i.postimg.cc/KjhjD8yN/screenshot-60.png",
@@ -406,11 +401,6 @@ const vehicles = {
             image: "https://i.postimg.cc/mrgfHf14/screenshot-60.png",
         },
         {
-            name: "Bmwe87",
-            description: "Blindaje a puerta cerrada + 50 Toneladas",
-            image: "https://i.postimg.cc/d0yRnDyw/screenshot-60.png",
-        },
-        {
             name: "Rs3sportbacktr ",
             description: "Addon Normal",
             image: "https://i.postimg.cc/KzQ15yJF/screenshot-60.png",
@@ -419,11 +409,6 @@ const vehicles = {
             name: "Ghostbb",
             description: "Addon Normal",
             image: "https://i.postimg.cc/sx7DNdJb/screenshot-60.png",
-        },
-        {
-            name: "540l ",
-            description: "Blindaje a puertas cerradas + 80 Toneladas de peso",
-            image: "https://i.postimg.cc/FRc49bJY/screenshot-60.png",
         },
         {
             name: "2008wrx",
@@ -498,11 +483,6 @@ const vehicles = {
             name: "911t4s2",
             description: "Addon Normal",
             image: "https://i.postimg.cc/15j1q51N/screenshot-60.png",
-        },
-        {
-            name: "ufc30",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/T13BKBkF/screenshot-60.png",
         },
         {
             name: "eclass24",
