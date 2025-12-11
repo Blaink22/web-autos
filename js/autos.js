@@ -704,7 +704,28 @@ const vehicles = {
         }
     ],
 
-    motos: [],
+    motos: [
+        {
+            name: "sanchez",
+            description: "Addon Normal es para una persona",
+            image: "https://i.postimg.cc/Tw1yvS8P/screenshot-200.png",
+        },
+        {
+            name: "softail1",
+            description: "Addon Normal es para dos personas",
+            image: "https://i.postimg.cc/mg4yWbmF/screenshot-201.png",
+        },
+        {
+            name: "RIB",
+            description: "Addon Normal de una persona + Full Peso (100 Toneladas)",
+            image: "https://i.postimg.cc/c4yQfxyB/screenshot-202.png",
+        },
+        {
+            name: "HDIron883",
+            description: "Addon Normal es para una persona",
+            image: "https://i.postimg.cc/G3YDLW8F/screenshot-203.png",
+        }
+    ],
 
     aereos: [],
 
