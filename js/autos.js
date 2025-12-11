@@ -548,6 +548,16 @@ const vehicles = {
             name: "m8keyvany",
             description: "Full Blindaje a puerta abierta + Full Peso (100 Toneladas) +500km",
             image: "https://i.postimg.cc/0QsTC3Xm/image.webp",
+        },
+        {
+            name: "pe208",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/nrRfbRJJ/screenshot-204.png",
+        },
+        {
+            name: "DatsunZ",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/05MNPD44/screenshot-205.png",
         }
     ],
 
@@ -701,6 +711,16 @@ const vehicles = {
             name: "baggedram",
             description: "Blindaje a puerta abierta con picks",
             image: "https://i.postimg.cc/X77n5zZg/screenshot-60.png",
+        },
+        {
+            name: "gls17",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/rsxcWC67/screenshot-206.png",
+        },
+        {
+            name: "ToraF450Dually6x6",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/rpKBxC5L/screenshot-207.png",
         }
     ],
 
