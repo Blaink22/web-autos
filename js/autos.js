@@ -538,6 +538,96 @@ const vehicles = {
             name: "DatsunZ",
             description: "Addon Normal",
             image: "https://i.postimg.cc/05MNPD44/screenshot-205.png",
+        },
+        {
+            name: "freebo430",
+            description: "Addon Normal +300km",
+            image: "https://i.postimg.cc/SsYMLzNv/screenshot-213.png",
+        },
+        {
+            name: "m2fd20",
+            description: "Blindaje a puertas cerradas +300km",
+            image: "https://i.postimg.cc/yxrtMtzc/screenshot-214.png",
+        },
+        {
+            name: "GODzR35BOSS",
+            description: "Adddon normal, + 20 Toneladas de peso, +500km",
+            image: "https://i.postimg.cc/NjtSW13D/screenshot-215.png",
+        },
+        {
+            name: "slyS8low",
+            description: "Blindaje a puerta abierta, +600km, + Full peso (100 Toneladas), + Rampa delantera y trasera",
+            image: "https://i.postimg.cc/gcDgnfQw/screenshot-216.png",
+        },
+        {
+            name: "gtrabflug",
+            description: "Addon Normal + 10 Toneladas de peso, +400km",
+            image: "https://i.postimg.cc/zBpcWBpw/screenshot-217.png",
+        },
+        {
+            name: "gt63beast",
+            description: "Addon Normal, +300km",
+            image: "https://i.postimg.cc/wjdZSStJ/screenshot-218.png",
+        },
+        {
+            name: "nis15",
+            description: "Blindaje a puerta abierta + Full peso (100 Toneladas), +600km",
+            image: "https://i.postimg.cc/DfLctmqk/screenshot-219.png",
+        },
+        {
+            name: "n180sx",
+            description: "Blindaje a puerta abierta + Full peso (100 toneladas) + 800km",
+            image: "https://i.postimg.cc/5Nt68R9p/screenshot-220.png",
+        },
+        {
+            name: "stagea",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/fW8bWf7R/screenshot-221.png",
+        },
+        {
+            name: "05m3e46",
+            description: "Blindaje a puerta cerrada, + 50 Toneladas de peso, +500km",
+            image: "https://i.postimg.cc/W4q9z8JM/screenshot-223.png",
+        },
+        {
+            name: "180sx",
+            description: "Addon Normal + Motor realista",
+            image: "https://i.postimg.cc/zfpfLwmM/screenshot-224.png",
+        },
+        {
+            name: "giuliagtam",
+            description: "Blindaje a puertas cerradas",
+            image: "https://i.postimg.cc/8zNJjzJH/screenshot-225.png",
+        },
+        {
+            name: "supraDRCustoM",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/FKqHgrz5/screenshot-226.png",
+        },
+        {
+            name: "204s911TurboS ",
+            description: "Addon Normal +400km",
+            image: "https://i.postimg.cc/Mp36q6yx/screenshot-227.png",
+        },
+        {
+            name: "22DemonMagnumv2",
+            description: "Blindaje a puerta cerradas con picks",
+            image: "https://i.postimg.cc/k4FLMsk4/screenshot-228.png",
+        },
+        {
+            name: "eu_55bb404_honda",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/x1zxTgmH/screenshot-229.png",
+        },
+        {
+            name: "sf90s",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/D01Q3pHK/screenshot-230.png",
+        },
+        {
+            name: "hellcatgk",
+            description: "Addon Normal, +500Km",
+            image: "https://i.postimg.cc/nL5qjttp/screenshot-231.png",
         }
     ],
 
@@ -701,15 +791,15 @@ const vehicles = {
             name: "ToraF450Dually6x6",
             description: "Addon Normal",
             image: "https://i.postimg.cc/rpKBxC5L/screenshot-207.png",
+        },
+        {
+            name: "bspot",
+            description: "Addon Normal",
+            image: "https://i.postimg.cc/0Qc9Q9wL/screenshot-222.png",
         }
     ],
 
     motos: [
-        {
-            name: "RIB",
-            description: "Addon Normal de una persona + Full Peso (100 Toneladas)",
-            image: "https://i.postimg.cc/c4yQfxyB/screenshot-202.png",
-        },
         {
             name: "HDIron883",
             description: "Addon Normal es para una persona",
