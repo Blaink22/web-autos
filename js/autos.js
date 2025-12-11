@@ -451,11 +451,6 @@ const vehicles = {
             image: "https://i.postimg.cc/d1QXLz3F/screenshot-60.png",
         },
         {
-            name: "20rs7c8",
-            description: "Blindaje a puerta cerrada",
-            image: "https://i.postimg.cc/cCrbcwQ4/screenshot-60.png",
-        },
-        {
             name: "Afpcity ",
             description: "Addon normal",
             image: "https://i.postimg.cc/NjYZ39tD/screenshot-60.png",
