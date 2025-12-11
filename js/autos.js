@@ -550,19 +550,9 @@ const vehicles = {
             image: "https://i.postimg.cc/yxrtMtzc/screenshot-214.png",
         },
         {
-            name: "GODzR35BOSS",
-            description: "Adddon normal, + 20 Toneladas de peso, +500km",
-            image: "https://i.postimg.cc/NjtSW13D/screenshot-215.png",
-        },
-        {
             name: "slyS8low",
             description: "Blindaje a puerta abierta, +600km, + Full peso (100 Toneladas), + Rampa delantera y trasera",
             image: "https://i.postimg.cc/gcDgnfQw/screenshot-216.png",
-        },
-        {
-            name: "gtrabflug",
-            description: "Addon Normal + 10 Toneladas de peso, +400km",
-            image: "https://i.postimg.cc/zBpcWBpw/screenshot-217.png",
         },
         {
             name: "gt63beast",
@@ -618,11 +608,6 @@ const vehicles = {
             name: "eu_55bb404_honda",
             description: "Addon Normal",
             image: "https://i.postimg.cc/x1zxTgmH/screenshot-229.png",
-        },
-        {
-            name: "sf90s",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/D01Q3pHK/screenshot-230.png",
         },
         {
             name: "hellcatgk",
