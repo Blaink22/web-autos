@@ -726,11 +726,6 @@ const vehicles = {
 
     motos: [
         {
-            name: "sanchez",
-            description: "Addon Normal es para una persona",
-            image: "https://i.postimg.cc/Tw1yvS8P/screenshot-200.png",
-        },
-        {
             name: "softail1",
             description: "Addon Normal es para dos personas",
             image: "https://i.postimg.cc/mg4yWbmF/screenshot-201.png",
