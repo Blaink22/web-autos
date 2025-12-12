@@ -550,11 +550,6 @@ const vehicles = {
             image: "https://i.postimg.cc/yxrtMtzc/screenshot-214.png",
         },
         {
-            name: "slyS8low",
-            description: "Blindaje a puerta abierta, +600km, + Full peso (100 Toneladas), + Rampa delantera y trasera",
-            image: "https://i.postimg.cc/gcDgnfQw/screenshot-216.png",
-        },
-        {
             name: "gt63beast",
             description: "Addon Normal, +300km",
             image: "https://i.postimg.cc/wjdZSStJ/screenshot-218.png",
