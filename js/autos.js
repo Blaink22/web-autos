@@ -570,11 +570,6 @@ const vehicles = {
             image: "https://i.postimg.cc/fW8bWf7R/screenshot-221.png",
         },
         {
-            name: "05m3e46",
-            description: "Blindaje a puerta cerrada, + 50 Toneladas de peso, +500km",
-            image: "https://i.postimg.cc/W4q9z8JM/screenshot-223.png",
-        },
-        {
             name: "180sx",
             description: "Addon Normal + Motor realista",
             image: "https://i.postimg.cc/zfpfLwmM/screenshot-224.png",
