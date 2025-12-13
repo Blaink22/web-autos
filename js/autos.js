@@ -595,11 +595,6 @@ const vehicles = {
             image: "https://i.postimg.cc/k4FLMsk4/screenshot-228.png",
         },
         {
-            name: "eu_55bb404_honda",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/x1zxTgmH/screenshot-229.png",
-        },
-        {
             name: "hellcatgk",
             description: "Addon Normal, +500Km",
             image: "https://i.postimg.cc/nL5qjttp/screenshot-231.png",
