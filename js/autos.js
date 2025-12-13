@@ -76,11 +76,6 @@ const vehicles = {
             image: "https://i.postimg.cc/4Nb9N5xP/image.png",
         },
         {
-            name: "gtrpit",
-            description: "Addon Normal + Full peso (100 Toneladas)",
-            image: "https://i.postimg.cc/ncYDckh6/image.png",
-        },
-        {
             name: "Ikrownrcf",
             description: "Ruedas Blindadas",
             image: "https://i.postimg.cc/Hs4ys2LG/image.png",
@@ -331,11 +326,6 @@ const vehicles = {
             image: "https://i.postimg.cc/ZRtvVc8Y/screenshot-60.png",
         },
         {
-            name: "gbigair",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/fRP8WGNG/screenshot-60.png",
-        },
-        {
             name: "z4alchemist",
             description: "Addon Normal",
             image: "https://i.postimg.cc/2yTxsJGK/screenshot-60.png",
@@ -379,11 +369,6 @@ const vehicles = {
             name: "PoetaMod",
             description: "Addon Normal",
             image: "https://i.postimg.cc/y6JcsDdJ/screenshot-60.png",
-        },
-        {
-            name: "ugchyrx7",
-            description: "Addon Normal + 25 Toneladas de Peso",
-            image: "https://i.postimg.cc/WzK7prRk/screenshot-60.png",
         },
         {
             name: "Bmw1",
@@ -570,11 +555,6 @@ const vehicles = {
             image: "https://i.postimg.cc/fW8bWf7R/screenshot-221.png",
         },
         {
-            name: "180sx",
-            description: "Addon Normal + Motor realista",
-            image: "https://i.postimg.cc/zfpfLwmM/screenshot-224.png",
-        },
-        {
             name: "giuliagtam",
             description: "Blindaje a puertas cerradas",
             image: "https://i.postimg.cc/8zNJjzJH/screenshot-225.png",
@@ -593,11 +573,6 @@ const vehicles = {
             name: "22DemonMagnumv2",
             description: "Blindaje a puerta cerradas con picks",
             image: "https://i.postimg.cc/k4FLMsk4/screenshot-228.png",
-        },
-        {
-            name: "hellcatgk",
-            description: "Addon Normal, +500Km",
-            image: "https://i.postimg.cc/nL5qjttp/screenshot-231.png",
         }
     ],
 
