@@ -718,11 +718,6 @@ const vehicles = {
             image: "https://i.postimg.cc/5yfqp7sk/screenshot-43.png",
         },
         {
-            name: "x6c",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/j5DLTzLP/screenshot-46.png",
-        },
-        {
             name: "cupra22f",
             description: "Blindaje a puerta cerrada",
             image: "https://i.postimg.cc/Zn6G6TTV/screenshot-60.png",
@@ -753,19 +748,9 @@ const vehicles = {
             image: "https://i.postimg.cc/x8KKQZR1/screenshot-60.png",
         },
         {
-            name: "baggedram",
-            description: "Blindaje a puerta abierta con picks",
-            image: "https://i.postimg.cc/X77n5zZg/screenshot-60.png",
-        },
-        {
             name: "gls17",
             description: "Addon Normal",
             image: "https://i.postimg.cc/rsxcWC67/screenshot-206.png",
-        },
-        {
-            name: "ToraF450Dually6x6",
-            description: "Addon Normal",
-            image: "https://i.postimg.cc/rpKBxC5L/screenshot-207.png",
         },
         {
             name: "bspot",
