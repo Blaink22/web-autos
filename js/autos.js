@@ -505,11 +505,6 @@ const vehicles = {
             image: "https://i.postimg.cc/25TsCzG8/screenshot-60.png",
         },
         {
-            name: "m8keyvany",
-            description: "Full Blindaje a puerta abierta + Full Peso (100 Toneladas) +500km",
-            image: "https://i.postimg.cc/0QsTC3Xm/image.webp",
-        },
-        {
             name: "pe208",
             description: "Addon Normal",
             image: "https://i.postimg.cc/nrRfbRJJ/screenshot-204.png",
