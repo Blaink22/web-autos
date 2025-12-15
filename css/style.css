@@ -304,3 +304,11 @@ h1, h2 {
     color: black;
     box-shadow: 0 0 14px #ffb732;
 }
+
+.vehicle-card .price {
+  margin-top: 8px;
+  font-weight: bold;
+  color: #f5b301;
+  text-align: center;
+  font-size: 1rem;
+}
