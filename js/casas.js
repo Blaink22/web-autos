@@ -1,31 +1,66 @@
 const houses = [
   {
-    name: "Casa Barrio Alto",
-    zone: "Barrio alto",
-    type: "S/G",
-    price: "$20.000 – $25.000",
-    image: "https://i.postimg.cc/0jZ9vYz1/house1.jpg"
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#334",
+    price: "$17.000",
+    image: "https://i.postimg.cc/rwqQ23x1/screenshot-263.png"
   },
   {
-    name: "Casa Barrio Alto",
-    zone: "Barrio alto",
-    type: "C/G",
-    price: "$25.000 – $30.000",
-    image: "https://i.postimg.cc/0jZ9vYz1/house2.jpg"
+    name: "Casa Sin Garage",
+    zone: "Exterior de ciudad, cercano a 5009",
+    type: "#368",
+    price: "$15.000",
+    image: "https://i.postimg.cc/fRxnBGZy/screenshot-264.png"
   },
   {
-    name: "Casa Zona Media",
-    zone: "Zona no tan solicitada",
-    type: "S/G",
-    price: "$15.000 – $20.000",
-    image: "https://i.postimg.cc/0jZ9vYz1/house3.jpg"
+    name: "Casa Sin Garage",
+    zone: "Paleto 1058",
+    type: "#470",
+    price: "$16.000",
+    image: "https://i.postimg.cc/C10Qd5qS/screenshot-265.png"
   },
   {
-    name: "Casa Zona Media",
-    zone: "Zona no tan solicitada",
-    type: "C/G",
-    price: "$18.000 – $23.000",
-    image: "https://i.postimg.cc/0jZ9vYz1/house4.jpg"
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#504",
+    price: "$17.000",
+    image: "https://i.postimg.cc/W4w7WndT/screenshot-266.png"
+  },
+  {
+    name: "Casa Sin Garage",
+    zone: "Paleto 1045",
+    type: "#533",
+    price: "$17.000",
+    image: "https://i.postimg.cc/ZYBf8XrD/screenshot-267.png"
+  },
+  {
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#504",
+    price: "$17.000",
+    image: "https://i.postimg.cc/W4w7WndT/screenshot-266.png"
+  },
+  {
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#504",
+    price: "$17.000",
+    image: "https://i.postimg.cc/W4w7WndT/screenshot-266.png"
+  },
+  {
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#504",
+    price: "$17.000",
+    image: "https://i.postimg.cc/W4w7WndT/screenshot-266.png"
+  },
+  {
+    name: "Casa Sin Garage",
+    zone: "Paleto, frente a polleria",
+    type: "#504",
+    price: "$17.000",
+    image: "https://i.postimg.cc/W4w7WndT/screenshot-266.png"
   }
 ];
 
