@@ -611,12 +611,6 @@ const vehicles = {
             image: "https://i.postimg.cc/05MNPD44/screenshot-205.png",
         },
         {
-            name: "freebo430",
-            description: "Addon Normal +300km",
-            price: "$20.000",
-            image: "https://i.postimg.cc/SsYMLzNv/screenshot-213.png",
-        },
-        {
             name: "m2fd20",
             description: "Blindaje a puertas cerradas +300km",
             price: "$23.000",
