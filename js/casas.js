@@ -66,7 +66,7 @@ const houses = [
     name: "Casa Sin Garage",
     zone: "Frente a GC",
     type: "#854",
-    price: "$20.000",
+    price: "$18.000",
     image: "https://i.postimg.cc/nhhy40Ty/screenshot-272.png"
   },
   {
