@@ -1,60 +1,105 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Información y Precios</title>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Información y Precios</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
-    <div class="overlay"></div>
+  <!-- Overlay -->
+  <div class="overlay"></div>
 
-    <div class="header">
-        <a href="index.html" class="back">← Volver</a>
-        <h1>Información & Precios</h1>
-    </div>
+  <!-- Header -->
+  <div class="header">
+    <a href="index.html" class="back">← Volver</a>
+    <h1>Información & Precios</h1>
+  </div>
 
-    <div class="info-container">
+  <!-- Contenedor principal -->
+  <div class="info-container">
 
-    <!-- 🟨 Cuadro informativo -->
-    <div class="info-box">
-        <p>
-            Los vehículos publicados en esta web pertenecían a usuarios del servidor que presentan 
-            una inactividad mínima de <strong>3 meses</strong>. Debido a esto, los 
-            <strong>addons</strong> se rematan para que otros usuarios puedan adquirirlos.
-        </p>
-        <p>
-            Todos los precios incluyen una <strong>rebaja especial</strong> en comparación al costo 
-            estándar de agregar addons manualmente, teniendo en cuenta lo que el vehículo ya posee.
-        </p>
-    </div>
+    <!-- Información general -->
+    <section class="info-box">
+      <h2>📌 Información Importante</h2>
 
-    <!-- 🟨 Precios -->
-    <div class="price-box full-width">
-        <h2 class="section-title">Precios de Addons Rematados</h2>
+      <p>
+        Todos los vehículos y propiedades publicados en esta web pertenecen a
+        usuarios del servidor que presentan una
+        <strong>inactividad mínima de 3 meses</strong>.
+      </p>
 
-        <ul class="price-list">
-            <li>Addons normales: <span>$20.000</span></li>
-            <li>Addons con blindaje total: <span>$30.000</span></li>
-            <li>Addons con blindaje + full peso: <span>$48.000</span></li>
-        </ul>
+      <p>
+        Debido a esto, los autos, addons y casas se publican en modalidad de
+        <strong>remate</strong>, permitiendo que otros usuarios puedan adquirirlos.
+      </p>
 
-        <p class="extra-info">
-            En caso de que un addon presente características adicionales o que no esten contempladas, 
-            el precio será recalculado según lo que posea el vehículo.
-        </p>
-    </div>
+      <p>
+        Los valores publicados incluyen una
+        <strong>rebaja especial</strong> en comparación al costo estándar
+        de agregar addons o propiedades manualmente dentro del servidor.
+      </p>
+    </section>
 
-    <!-- 🟨 ÚNICO botón de compra -->
-    <div class="buy-button-container">
-        <a href="https://discord.gg/kilombo" target="_blank" class="buy-button">
-            Para realizar la compra, abrir ticket en Discord (Donaciones) 
-            o contactar a un Head encargado de Addons
-        </a>
-    </div>
+    <!-- Precios de Autos -->
+    <section class="price-box">
+      <h2>🚗 Precios de Addons Rematados</h2>
 
-</div>
+      <ul class="price-list">
+        <li>Addons normales: <span>$20.000</span></li>
+        <li>Addons con blindaje total: <span>$28.000</span></li>
+        <li>Addons con blindaje + full peso: <span>$40.000</span></li>
+      </ul>
+
+      <p class="extra-info">
+        En caso de que un vehículo posea características adicionales no contempladas,
+        el precio será recalculado según el equipamiento que incluya.
+      </p>
+    </section>
+
+    <!-- Precios de Casas -->
+    <section class="price-box">
+      <h2>🏠 Precios de Casas</h2>
+
+      <p class="section-description">
+        Las casas siguen el mismo criterio de publicación que los autos:
+        <strong>mínimo 3 meses de inactividad</strong>.
+      </p>
+
+      <h3>🏙️ Barrios altos (alta demanda)</h3>
+      <ul class="price-list">
+        <li>Sin garage : <span>$20.000 – $25.000</span></li>
+        <li>Con garage : <span>$25.000 – $30.000</span></li>
+      </ul>
+
+      <h3>🏘️ Zonas menos solicitadas</h3>
+      <ul class="price-list">
+        <li>Sin garage : <span>$15.000 – $20.000</span></li>
+        <li>Con garage : <span>$18.000 – $23.000</span></li>
+      </ul>
+
+      <p class="extra-info">
+        El valor final puede variar según la ubicación exacta,
+        el tamaño de la propiedad y características adicionales.
+      </p>
+    </section>
+
+    <!-- Botón de compra -->
+    <section class="buy-section">
+     <a href="https://discord.gg/kilombo" target="_blank" class="buy-button">
+      Abrir ticket en Discord
+     </a>
+
+     <small class="buy-note">
+       Compras únicamente mediante ticket en Discord (Donaciones)
+       o con un Head encargado.
+     </small>
+    </section>
+
+
+  </div>
+
 </body>
 </html>
-
